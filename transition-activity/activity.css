@@ -61,3 +61,7 @@
    .caption:hover .caption > h1 {
     transform: translateY(0);
   }
+  button:hover {
+    background-color: cornflowerblue;
+    transition: background-color 2s;
+  }
