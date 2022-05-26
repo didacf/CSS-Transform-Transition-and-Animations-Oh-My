@@ -27,6 +27,12 @@
     background: rgba(0, 0, 0, .2);
   }
 
+  .caption img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
   .overlay {
     position: absolute;
     top: 0;
