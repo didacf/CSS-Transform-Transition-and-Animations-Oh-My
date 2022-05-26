@@ -13,13 +13,14 @@
   }
 
   .caption::before {
-    background: transparent;
+    content: ' ';
     position: absolute;
     content: ' ';
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
+    background: transparent;
     transition: background .35s ease-out;
   }
 
